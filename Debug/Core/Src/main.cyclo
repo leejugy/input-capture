@@ -1,0 +1,8 @@
+../Core/Src/main.c:69:7:HAL_UART_RxCpltCallback	2
+../Core/Src/main.c:77:6:HAL_TIM_IC_CaptureCallback	6
+../Core/Src/main.c:103:6:cal_pulse	1
+../Core/Src/main.c:113:6:uart_send	2
+../Core/Src/main.c:127:6:pwm_change	14
+../Core/Src/main.c:183:5:main	6
+../Core/Src/main.c:246:6:SystemClock_Config	3
+../Core/Src/main.c:296:6:Error_Handler	1

@@ -1,0 +1,8 @@
+../Core/Src/main.c:69:7:HAL_UART_RxCpltCallback	16	static
+../Core/Src/main.c:77:6:HAL_TIM_IC_CaptureCallback	16	static
+../Core/Src/main.c:103:6:cal_pulse	16	static
+../Core/Src/main.c:113:6:uart_send	28	static
+../Core/Src/main.c:127:6:pwm_change	24	static
+../Core/Src/main.c:183:5:main	16	static
+../Core/Src/main.c:246:6:SystemClock_Config	88	static
+../Core/Src/main.c:296:6:Error_Handler	4	static,ignoring_inline_asm
